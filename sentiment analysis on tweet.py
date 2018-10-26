@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  8 01:10:06 2018
-
-@author: HP
-"""
 
 import tweepy 
 import json
